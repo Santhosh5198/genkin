@@ -14,7 +14,7 @@ Feature: Limeroad order
 		And user click cutest duo rn
 		And Click the element to select Solids Polyester Single Breasted Suits
 		And Click the element to select add to cart
-#		Then user Close the browser
+#Then user Close the browser
 		
 		Scenario: To select a product in kids
 		When Click the element to select kids icon
